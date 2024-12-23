@@ -1,4 +1,4 @@
-# Monte Carlo Simulation Repository
+# Monte Carlo Simulation 
 
 Monte Carlo simulation in trading is nothing but house of cards
 
