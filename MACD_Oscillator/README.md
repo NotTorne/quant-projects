@@ -127,11 +127,11 @@ slicing: 50
 1. A plot showing:
    - Apple Inc. (AAPL) closing price with Buy/Sell signals.
 
-  
+  ![Positions](images/positions.jpg)
 
    - Oscillator and moving averages.
   
-    
+  ![Poitions](images/oscillator_graph.jpg)
 
 1. Clear visualization of trading signals for backtesting.
 
