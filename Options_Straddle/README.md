@@ -42,13 +42,13 @@ The dataset is available at: [STOXX 50 Data](https://github.com/je-suis-tm/quant
 🖼️🖼️🖼️ Below are the payoff diagrams generated for various strike prices:
 
 ### Result 1
-![Figure 1](./Figure_1.png)
+![Figure 1](images/Figure_1.png)
 
 ### Result 2
-![Figure 2](./Figure_2.png)
+![Figure 2](images/Figure_2.png)
 
 ### Result 3
-![Figure 3](./Figure_3.png)
+![Figure 3](images/Figure_3.png)
 
 Each diagram shows:
 - **Strike Price**: The price at which both options are bought.
